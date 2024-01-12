@@ -1,0 +1,1 @@
+devtools://devtools/bundled/js_app.html?v8only=true&ws=192.168.2.1:43086/00010002-0003-4004-8005-000600070008
